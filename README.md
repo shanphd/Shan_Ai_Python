@@ -8,7 +8,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | S.NO | Topic               | Start Date | End Date | Status |
 |------|---------------------|------------|----------|--------|
 | 1    | Python Road Map     |4.3.2026    | 4.3.2026 |   C     |
-| 2    |                     |            |          |        |
+| 2    | What is Python      |4.3.2026    | 4.3.2026 |  C      |
 | 3    |        |            |          |        |
 | 4    |       |            |          |        |
 | 5    |       |            |          |        |
