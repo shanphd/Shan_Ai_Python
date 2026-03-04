@@ -9,7 +9,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 |------|---------------------|------------|----------|--------|
 | 1    | Python Road Map     |4.3.2026    | 4.3.2026 |   C     |
 | 2    | What is Python      |4.3.2026    | 4.3.2026 |  C      |
-| 3    |        |            |          |        |
+| 3    | Python Comments       |   4.3.2026          |     4.3.2026      |  C       |
 | 4    |       |            |          |        |
 | 5    |       |            |          |        |
 | 6    |       |            |          |        |
