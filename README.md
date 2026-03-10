@@ -12,7 +12,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 3    | Python Comments     |   4.3.2026 | 4.3.2026 |  C      |
 | 4    | Python Prints      |5.3.2026            |  5.3.2026        |   C     |
 | 5    |  What is Variables     |  7.3.2026          | 7.3.2026         |  C      |
-| 6    |       |            |          |        |
+| 6    |  Python Input Function     | 10.3.2026            |  10.3.2026        |  C      |
 | 7    |       |            |          |        |
 | 8    |       |            |          |        |
 | 9    |       |            |          |        |
