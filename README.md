@@ -1,6 +1,6 @@
 # Shan_Ai_Python
 This repository contains comprehensive study notes for the AI Snowflake Python 
-
+https://github.com/sfc-gh-thoad/gcc-kickstarter/tree/main
 ## Shan AI Python 
 
  
@@ -14,8 +14,8 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 5    |  What is Variables     |  7.3.2026          | 7.3.2026         |  C      |
 | 6    |  Python Input Function     | 10.3.2026            |  10.3.2026        |  C      |
 | 7    |  Python Data Types     |    19.3.2026        |  19.3.2026         |  C      |
-| 8    |  Python String Functions     |   19.3.2026         |          |        |
-| 9    |       |            |          |        |
+| 8    |  Python String Functions     |   19.3.2026         |  29.3.2026        |      C  |
+| 9    |  Math Functions, Round & Random     |  11.4.2026          |          |        |
 | 10   |       |            |          |        |
 | 11   |       |            |          |        |
 | 12   |       |            |          |        |
