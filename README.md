@@ -16,8 +16,8 @@ https://github.com/sfc-gh-thoad/gcc-kickstarter/tree/main
 | 7    |  Python Data Types     |    19.3.2026        |  19.3.2026         |  C      |
 | 8    |  Python String Functions     |   19.3.2026         |  29.3.2026        |      C  |
 | 9    |  Math Functions, Round & Random     |  11.4.2026          |     11.4.2026     |     C   |
-| 10   |       |            |          |        |
-| 11   |       |            |          |        |
+| 10   | Python Control Flow      |  18.4.2026          |   18.4.2026        |   C     |
+| 11   | Python Boolean Functions       | 18.4.2026           | 18.4.2026         |   C     |
 | 12   |       |            |          |        |
 | 13   |       |            |          |        |
 | 14   |       |            |          |        |
