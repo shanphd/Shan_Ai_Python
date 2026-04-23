@@ -1,6 +1,6 @@
 # Shan_Ai_Python
 This repository contains comprehensive study notes for the AI Snowflake Python 
-https://github.com/sfc-gh-thoad/gcc-kickstarter/tree/main
+
 ## Shan AI Python 
 
  
@@ -18,8 +18,8 @@ https://github.com/sfc-gh-thoad/gcc-kickstarter/tree/main
 | 9    |  Math Functions, Round & Random     |  11.4.2026          |     11.4.2026     |     C   |
 | 10   | Python Control Flow      |  18.4.2026          |   18.4.2026        |   C     |
 | 11   | Python Boolean Functions       | 18.4.2026           | 18.4.2026         |   C     |
-| 12   |       |            |          |        |
-| 13   |       |            |          |        |
+| 12   |  Python Comparison Operators     |  23.4.2026          |  23.4.2026          |    C    |
+| 13   | Python Logical Operators      |  23.4.2026          |  23.4.2026        |     C   |
 | 14   |       |            |          |        |
 | 15   |       |            |          |        |
 | 16   |       |            |          |        |
