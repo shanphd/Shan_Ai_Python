@@ -20,7 +20,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 11   | Python Boolean Functions       | 18.4.2026           | 18.4.2026         |   C     |
 | 12   |  Python Comparison Operators     |  23.4.2026          |  23.4.2026          |    C    |
 | 13   | Python Logical Operators      |  23.4.2026          |  23.4.2026        |     C   |
-| 14   |       |            |          |        |
+| 14   | Python Membership & Identity Operators     |  26.5.2026        |  26.5.2026        |    c    |
 | 15   |       |            |          |        |
 | 16   |       |            |          |        |
 | 17   |       |            |          |        |
