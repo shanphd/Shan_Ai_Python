@@ -21,8 +21,8 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 12   |  Python Comparison Operators     |  23.4.2026          |  23.4.2026          |    C    |
 | 13   | Python Logical Operators      |  23.4.2026          |  23.4.2026        |     C   |
 | 14   | Python Membership & Identity Operators     |  26.5.2026        |  26.5.2026        |    c    |
-| 15   |       |            |          |        |
-| 16   |       |            |          |        |
+| 15   | Python If Elif Else Statements      |   29.5.2026         | 30.5.2026         |    C    |
+| 16   | Python If-Else One Line and Match-Case      |   30.5.2026         |  30.5.2026        |  C       |
 | 17   |       |            |          |        |
 | 18   |       |            |          |        |
 | 19   |       |            |          |        |
