@@ -30,7 +30,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 22   |                                        |            |           |        |
 | 23   | How to Create a List in Python         | 10.6.2026 |    10.6.2026      |    C    |
 | 24   |                                        |            |           |        |
-| 25   |                                        |            |           |        |
+| 25   | Python Unpacking (Visually Explained)  | 12.6.2026           |           |        |
 | 26   |                                        |            |           |        |
 | 27   |                                        |            |           |        |
 | 28   |                                        |            |           |        |
