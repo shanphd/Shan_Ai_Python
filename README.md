@@ -33,8 +33,8 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 25   | Python Unpacking (Visually Explained)  | 12.6.2026  | 12.6.2026 | C      |
 | 26   | How to Explore & Analyze Lists in Python| 16.6.2026 | 16.6.2026 | C      |
 | 27   | How to Add, Remove, and Update Lists   |  19.6.2026 |  19.6.2026| C    |
-| 28   | How to Order Lists Python              |  30.6.2026          |           |        |
-| 29   |                                        |            |           |        |
+| 28   | How to Order Lists Python              |  30.6.2026 |  30.6.2026 | C        |
+| 29   | How to Copy Python Lists Safely        |  30.6.2026 |   3.7.2026        |  C      |
 | 30   |                                        |            |           |        |
 | 31   |                                        |            |           |        |
 | 32   |                                        |            |           |        |
