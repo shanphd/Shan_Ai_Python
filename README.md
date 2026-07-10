@@ -37,7 +37,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 29   | How to Copy Python Lists Safely        |  30.6.2026 |   3.7.2026        |  C      |
 | 30   | How to Combine Lists in Python         |   4.7.2026         |  4.7.2026         |   C     |
 | 31   | Python Iterator vs Iterable            |  4.7.2026  | 4.7.2026  |    C    |
-| 32   |                                        |            |           |        |
+| 32   | Python Lambda Functions                |  10.7.2026 |  10.7.2026         |        | C
 | 33   |                                        |            |           |        |
 | 34   |                                        |            |           |        |
 | 35   |                                        |            |           |        |
