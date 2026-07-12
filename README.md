@@ -38,7 +38,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 30   | How to Combine Lists in Python         |   4.7.2026         |  4.7.2026         |   C     |
 | 31   | Python Iterator vs Iterable            |  4.7.2026  | 4.7.2026  |    C    |
 | 32   | Python Lambda Functions                |  10.7.2026 |  10.7.2026         |        | C
-| 33   |                                        |            |           |        |
+| 33   | Python List Comprehension                                       |            |           |        |
 | 34   |                                        |            |           |        |
 | 35   |                                        |            |           |        |
 | 36   |                                        |            |           |        |
