@@ -41,7 +41,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 33   | Python List Comprehension                                       |14.7.2026            | 14.7.2026          |    C    |
 | 34   | Python List Operations                                       | 14.7.2026           |  14.7.2026         |  C      |
 | 35   | Python Tuples                                       | 14.7.2026           |           |        |
-| 36   |                                        |            |           |        |
+| 36   |   Python Sets                                     |     21.7.2026       |  21.7.2026         |   C     |
 | 37   |                                        |            |           |        |
 | 38   |                                        |            |           |        |
 | 39   |                                        |            |           |        |
