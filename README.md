@@ -44,5 +44,12 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 36   |   Python Sets                                     |     21.7.2026       |  21.7.2026         |   C     |
 | 37   |  Python Dictionaries                                      | 22.7.2026           |           |        |
 | 38   |                                        |            |           |        |
-| 39   |                                        |            |           |        |
-| 40   |                                        |            |           |        |
+| 39   | Python function                                       | 6.8.2026           | 6.8.2026          |  C      |
+| 40   | Data flow through function                                      |6.8.2026            | 6.8.2026          |  C      |
+| 41   | Python Parameters vs Global vs Local Variables                                       |            |           |        |
+| 42   |                                        |            |           |        |
+| 43   |                                        |            |           |        |
+| 44   |                                        |            |           |        |
+| 45   |                                        |            |           |        |
+| 46   |                                        |            |           |        |
+| 47   |                                        |            |           |        |
