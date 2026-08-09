@@ -49,7 +49,7 @@ This repository contains comprehensive study notes for the AI Snowflake Python
 | 41   | Python Parameters vs Global vs Local Variables                                       | 7.8.2026           |    7.8.2026       |   C     |
 | 42   | Python Positional vs Keyword Arguments                                       |            |           |        |
 | 43   | Python *Args and **Kwargs                                        |            | 8.8.2026          |  8.8.2026      |
-| 44   | Python Return Vs Print()                                       |            |   9.8.2026        |  9.8.2026      |
-| 45   |                                        |            |           |        |
+| 44   | Python Return Vs Print()                                       |            |   9.8.2026        |  9.8.2026      |C
+| 45   | Python Functions Types You Must Know                                        | 9.8.2026           |  9.8.2026         |     C   |
 | 46   |                                        |            |           |        |
 | 47   |                                        |            |           |        |

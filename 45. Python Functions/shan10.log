@@ -1,0 +1,6 @@
+2026-08-09 21:44:27,697 - DEBUG - Machine started
+2026-08-09 21:44:27,698 - DEBUG - valid email : {'username': 'shan', 'Domain': 'gmail.com'}
+2026-08-09 21:44:27,698 - DEBUG - Machine stopped
+2026-08-09 21:45:40,624 - DEBUG - Machine started
+2026-08-09 21:45:40,625 - DEBUG - Invalid email: shan123.gmail.com
+2026-08-09 21:45:40,626 - DEBUG - Machine stopped
